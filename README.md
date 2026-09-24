@@ -13,8 +13,8 @@ and digital delivery roles**.
 
 ## Core skills
 
-- Power BI, DAX and dashboard design
-- SQL and BigQuery
+- Power BI, Power Query, DAX and dashboard design
+- SQL and Google BigQuery
 - Excel and data-quality checking
 - Python for data analysis
 - KPI reporting and business insights
@@ -28,22 +28,24 @@ and digital delivery roles**.
 
 ### [Customer Sales & Retention Analysis](https://github.com/smlumpa/Customer-sales-retention-analysis)
 
-End-to-end customer analytics project using synthetic data, BigQuery SQL,
-Power BI and DAX. It includes reproducible data-quality repair, a documented
-analytical model and verified customer, sales and retention metrics.
+End-to-end customer analytics project using SQL, Google BigQuery and Power BI
+to examine purchasing behaviour, revenue and retention. The verified dashboard
+reports £104.32K total transaction value, £412.32 average order value, 57 repeat
+customers and 78.0% average monthly retention.
 
 ### [Learning & Development Dashboard](https://github.com/smlumpa/Learning-Development-Dashboard)
 
-Power BI learning analytics project covering 359 synthetic training records.
-It analyses completion, participation, scores, hours and costs across
-departments and courses, supported by SQL, DAX, a data dictionary and a
-validation report.
+Power BI learning-analytics project using Excel, Power Query and DAX. The
+verified model covers 25 participants and 25 training records, including 22
+completed trainings, an 88.0% completion rate, an 83.8 average completed-course
+score and 124 completed training hours.
 
-### [Market Trends Performance Dashboard](https://github.com/smlumpa/Market-trends-performance-dashboard)
+### [Market Trends & Performance Dashboard](https://github.com/smlumpa/Market-trends-performance-dashboard)
 
-Reproducible market-analysis project using Power BI, SQL and Python to explore
-price trends, returns, correlations and performance. The repository includes
-documented data preparation, analysis outputs and dashboard evidence.
+Market-analysis project combining Python, SQL, Google BigQuery, Power Query and
+Power BI to compare stock-market and commodity returns, volatility and
+geo-economic events. The verified model contains 19 stock-market series, 19
+commodity series and 4,380 return dates.
 
 ## Qualifications and professional development
 
